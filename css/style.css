@@ -1,0 +1,19 @@
+.search-bar {
+    min-width: 40%;
+}
+
+.header-exp {
+    min-width: 10%;
+}
+
+.progress-exp {
+    height: 10px;
+    width: 100%;
+    background-color: #1923ac;
+}
+
+.progress-exp-full {
+    height: 10px;
+    width: 60%;
+    background-color: #ffffff;
+}
